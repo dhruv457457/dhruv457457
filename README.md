@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @dhruv457457<br>👀 I’m interested in New technology<br>🌱 I’m currently learning web dev,c++<br>💞️ I’m looking to collaborate on Hackathon projects<br>📫 How to reach me Insta handel~dhruv_panch0li<br>😄 Pronouns: He/Him<br>⚡ Fun fact: me sb bhool jaata hu :)<br>
+👋 Hi, I’m @dhruv457457<br>👀 I’m interested in New technology<br>🌱 I’m currently learning Full stack Web Development,DSA On Leatcode<br>💞️ I’m looking to collaborate on Hackathon projects<br>📫 How to reach me Insta handel~dhruv_panch0li<br>😄 Pronouns: He/Him<br>⚡ Fun fact: me sb bhool jaata hu :)<br>
 
 
 ## 🌐 Socials:
