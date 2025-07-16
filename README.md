@@ -26,9 +26,7 @@
 ## 🛠️ Tech Stack
 
 ### 🚀 Languages & Frameworks
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)  
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)  
