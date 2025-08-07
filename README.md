@@ -1,4 +1,4 @@
-# Me:
+# About Me!
 Dhruv Pancholi | Fullstack Dapp Developer<br>Hey, I'm Dhruv Pancholi, a passionate Dapp Developer and Web3 Builder from Jaipur, Rajasthan. I love building scalable, real-time, and decentralized solutions using the latest tech.<br><br> About Me<br>🎓 B.Tech (IT) | Poornima College of Engineering (2023–2027)<br>💻 Specializing in FullStack  DApp Development, and On-chain/Off-chain Integration<br>🧱 Building Dkarma – a decentralized freelance escrow system under OCI (Cohort 3)<br>🦄 Creator of MetaCow – a social DEX with copy trading, alpha feed, and on-chain analytics<br>🏢Ex-Backend Intern at STPI, working with Node.js & MongoDB<br>🏆 Winner at EduChain Hackathon, CosmonCloud, and TekConnect National Project Exhibition
 
 
