@@ -4,7 +4,7 @@
 
 ## Web3 & Blockchain Projects
 
-* **MetaCow DEX** — Social DEX with automated copy trading using ERC-7715 Advanced Permissions, ERC-4337 Smart Accounts, and real-time Envio indexing. Sub-5 second copy trade execution with non-custodial, spend-limited permissions.
+* **MetaCow DEX** — Hackathon Winner ($1,050)Social DEX with automated copy trading using ERC-7715 Advanced Permissions, ERC-4337 Smart Accounts, and real-time Envio indexing. Sub-5 second copy trade execution with non-custodial, spend-limited permissions.
 
 * **Cryptify** — Hackathon Winner ($4,050). Username-based payments, escrow smart contracts (SWC), and on-chain reputation system deployed on EDU Chain.
 
