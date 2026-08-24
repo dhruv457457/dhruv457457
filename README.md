@@ -12,7 +12,7 @@
 
 * **PayPact** — Hackathon Winner ($833). Decentralized group payments on Solana using Solana Pay with real-time on-chain tracking.
 
-* **AutoPay** — Decentralized subscription and automation protocol using MetaMask Smart Accounts, delegations, Envio indexing, and automated backend agents.
+* **CLOVE** — CLOVE is an AI-powered DeFi operating system I built to make interacting with DeFi easier through natural-language instructions. I worked on the backend and Web3 integration, using TypeScript, Node.js, LLM APIs, and MetaMask Smart Accounts to translate user intent into on-chain actions. The project gave me hands-on experience with APIs, AI agents, account abstraction, and blockchain infrastructure.
 
 * **RevokeMe** — Automated wallet security guard on Monad. Manages token approvals, batch revocations, and auto-revoke agents using MetaMask Smart Accounts, Delegations, Envio, and Pimlico.
 
